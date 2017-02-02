@@ -1,0 +1,4 @@
+# theme-triton-a1488760-fa72-4753-8c81-4f18492d25c0/sass/etc
+
+This folder contains miscellaneous SASS files. Unlike `"theme-triton-a1488760-fa72-4753-8c81-4f18492d25c0/sass/etc"`, these files
+need to be used explicitly.

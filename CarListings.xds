@@ -1,0 +1,61 @@
+{
+    "name": "CarListings",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "6.2.1.29",
+            "frameworkVersion": "6.2.1.167"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:50706/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "webBuild",
+            "display": "Build web app",
+            "buildPlatform": false
+        }
+    },
+    "xdsVersion": "4.1.1",
+    "xdsBuild": 123,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "ext62",
+    "viewOrderMap": {
+        "view": [
+            "e221519b-e836-401d-8833-48e9d7101281",
+            "f1c5d617-cd93-4bf7-b21a-eafa61d53487",
+            "fcb1a75c-1f71-4342-ad64-ab5d47631fe6"
+        ],
+        "store": [
+            "8c700431-988a-4a76-a62b-1c64da7d518a",
+            "369d4f7a-40d2-49e1-806a-064126210551"
+        ],
+        "controller": [],
+        "model": [
+            "8c85f86a-1845-478d-bc21-1c32bfc941d8",
+            "f82ef3fb-5265-424f-bc84-65fe122289c5"
+        ],
+        "resource": [
+            "17d78da5-0a0d-40ad-9da4-3dffbd873a4d",
+            "a1488760-fa72-4753-8c81-4f18492d25c0"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

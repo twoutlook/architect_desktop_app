@@ -1,0 +1,20 @@
+{
+    "type": "directstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "CarChartStore",
+        "model": "CarChart",
+        "storeId": "CarChartStore"
+    },
+    "configAlternates": {
+        "designer|userClassName": "string",
+        "model": "model",
+        "storeId": "string"
+    },
+    "name": "MyDirectStore",
+    "designerId": "369d4f7a-40d2-49e1-806a-064126210551"
+}
